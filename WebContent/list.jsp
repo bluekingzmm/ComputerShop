@@ -200,7 +200,7 @@ function sort(url) {
 							</c:forEach>
 						</select> </section>
 						<h5 class="m_1">颜色</h5> <input type="text" name="color" />
-						<h5 class="m_1">屏幕尺寸</h5> <input type="text" name="screen " />
+						<h5 class="m_1">屏幕尺寸</h5> <input type="text" name="screen" />
 						<h5 class="m_1">价格</h5><input type="text" name="fPrice" style="width: 40%;" />- <input type="text" name="sPrice"style="width: 40%;"  /><br>
 						 <br>
 						 <span class="button-wrap"> <input

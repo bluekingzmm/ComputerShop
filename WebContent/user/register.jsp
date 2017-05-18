@@ -59,7 +59,7 @@
 		<div class="wrap">
 			<h4 class="title">创建用户</h4>
 			<form action='<c:url value="/UserAction?operate=add"></c:url>'
-			method="post" class="form-inline" onsubmit="return must();">
+			method="post" class="form-inline">
 				<div class="col_1_of_2 span_1_of_2">
 
 					<div>userName <input type="text" name="userName"

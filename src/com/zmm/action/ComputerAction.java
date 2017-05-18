@@ -130,9 +130,9 @@ public class ComputerAction extends HttpServlet {
 			if (screenName != null && !screenName.equals("")) {
 				if (flag)
 					sbf.append(" and ");
-				sbf.append(" screen_name = ' ");
+				sbf.append(" screen_name = '");
 				sbf.append(screenName);
-				sbf.append(" '");
+				sbf.append("英寸'");
 				flag = true;
 			}
 			if (colorName != null && !colorName.equals("")) {
